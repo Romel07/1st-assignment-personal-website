@@ -1,24 +1,26 @@
 body{
+    margin: 0px;
     font-family: 'Montserrat Alternates', sans-serif;
     font-family: 'Nova Slim', cursive;
 }
 h1{
-    font-size: 50px;
+    font-size: 7vh;
 }
 section{
-    height: 300px;
-    margin-bottom: 50px;
-    padding-bottom: 20px;
+    height: 500px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    
 }
 .section-width{
-    width: 45%;
     float: left;
+    width: 40%;
     margin-left: 3%;
     padding-left: 2%;
 }
 .section-width img{
-    width: 80%;
-    height: 80%;
+    width: 70%;
+
 }
 .button-color{
     text-decoration: none;
@@ -29,5 +31,53 @@ section{
     border-radius: 5px;
 }
 .orange-color{
-    columns: rgb(228, 89, 24);
+    color: rgb(228, 89, 24);
+}
+.box-area{
+    float: left;
+    width: 33%;
+    margin-left: ;
+    height: 100%;
+ 
+    border-radius: 15px;
+}
+.projec{
+    padding-top: 30px;
+    text-align: center;
+}
+#bg-image{
+    background-color: rgb(229, 226, 226);
+    width: auto;
+    
+}
+.work-inquery{
+    background-image: url("images/Group_33094_1.png");
+    
+}
+#work{
+    font-size: 50px;
+    color: white;
+}
+.box-area img{
+    width: 80%;
+    padding: 8%;
+}
+.projec h4 p{
+    padding-left: 8px;
+    padding-right: 12px;
+    padding-top: 10px;
+}
+.center{
+    margin-left: 25px;
+   margin-right: 2px;
+}
+.middle{
+    width: 100%;
+    align-content: center;
+}
+#section-width{
+    float: left;
+    width: 30%;
+    margin-left: 20%;
+    margin-left: 20%;
 }
