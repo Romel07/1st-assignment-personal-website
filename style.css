@@ -17,6 +17,7 @@ section{
     width: 40%;
     margin-left: 3%;
     padding-left: 2%;
+    display: inline;
 }
 .section-width img{
     width: 70%;
@@ -52,6 +53,7 @@ section{
 }
 .work-inquery{
     background-image: url("images/Group_33094_1.png");
+    border-image-repeat: inherit;
     
 }
 #work{
@@ -80,4 +82,5 @@ section{
     width: 30%;
     margin-left: 20%;
     margin-left: 20%;
+    display: inline;
 }
